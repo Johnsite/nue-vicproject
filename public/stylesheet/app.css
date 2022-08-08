@@ -1,0 +1,77 @@
+#btn{
+    margin-top: 8rem;
+    margin-bottom: 5rem;
+}
+
+#btnw{
+ border-left: 6rem;
+    margin-top: 2rem;
+}
+#btnr{
+    border-radius: 3rem; 
+   }
+
+   #btnNAv{
+    border-radius: 1.1ch; 
+   }
+
+   #homeP{
+    color: rgb(28, 28, 187);
+   }
+
+#h1{
+  
+    margin-top: 6rem;
+}
+
+#relationP{
+    color: rgb(52, 37, 148);
+    font-size: large;
+    font-weight: 500;
+}
+#NAVBAr{
+    margin-top: 1rem; 
+}
+
+#btFa{
+    background-color: whitesmoke;
+    border-radius: 1.3ch;
+}
+
+#txt{
+    color: blue;
+}
+
+#GenCard{
+    border-radius: 1ch;
+    border-color: blue;
+    border-right-width: 0.4ch;
+    border-bottom-width: 0.4ch;
+    height: 75%;
+  width: 100%;
+  padding-bottom: 1ch;
+ 
+}
+.dot {
+    height: 60px;
+    width: 60px;
+    background-color:blue;
+    border-radius: 50%;
+  }
+
+  .dashed {
+    width: 90%;
+    margin-top: 3ch;
+    margin: auto;
+   border: 3ch;
+   margin-bottom:4ch;
+}
+
+#thtex{
+    width: 70%;
+    height: 50px;
+    border-radius: 2rem;
+    
+}
+
+ 
